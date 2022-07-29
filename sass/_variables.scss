@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'sofia_prolight';
+    src: url('/fonts/sofiapro-light-webfont.woff2') format('woff2'),
+         url('/fonts/sofiapro-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+//font-family
+$primary-font: 'sofia_prolight';
+
+//font-size
+$fs-xs: 14px;
+$fs-small: 14.4px;
+$fs-normal: 20px;
+$fs-medium: 35px;
+$fs-large: 56px;
+
+//colors
+
+$cl-white: #ffffff;
+$cl-black: #000000;
+$cl-gray: #818181;
+$cl-light-gray: #efefef;
+$cl-dark-red: #920303;
+$cl-dark-red-alt: #580303;
+
+
+
